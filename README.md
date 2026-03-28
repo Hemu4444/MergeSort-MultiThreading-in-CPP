@@ -8,26 +8,26 @@ This project implements the Merge Sort algorithm using multithreading in C++ to 
 
 # Features:-
 
-Parallel implementation of Merge Sort
-Uses C++ threads for concurrent execution
-Improved performance for large datasets
-Demonstrates CPU utilization and scalability
+Parallel implementation of Merge Sort,
+Uses C++ threads for concurrent execution,
+Improved performance for large datasets,
+Demonstrates CPU utilization and scalability,
 
 # Concepts Used:-
 
-Multithreading using std::thread
-Divide and Conquer
-Synchronization using thread joining
-Time Complexity Analysis
+Multithreading using std::thread,
+Divide and Conquer,
+Synchronization using thread joining,
+Time Complexity Analysis,
 
 # Performance:-
 
-Sequential Merge Sort: approximately 24 seconds for large datasets
-Parallel Merge Sort: approximately 2.5 seconds
-Demonstrates significant speed improvement through parallel execution
+Sequential Merge Sort: approximately 24 seconds for large datasets,
+Parallel Merge Sort: approximately 2.5 seconds,
+Demonstrates significant speed improvement through parallel execution,
 
 # Tech Stack :-
 
-C++
-STL
-Thread Library
+C++,
+STL,
+Thread Library.
